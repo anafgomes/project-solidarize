@@ -3,7 +3,7 @@ import { useUser } from "@clerk/clerk-expo";
 import axios from "axios";
 
 const apiAxios = axios.create({
-  baseURL: "http://192.168.100.133:3001/",
+  baseURL: "http://192.168.0.111:3001/",
 });
 
 // apiAxios.interceptors.request.use((config) => {

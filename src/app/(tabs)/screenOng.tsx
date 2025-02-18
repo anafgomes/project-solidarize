@@ -112,14 +112,7 @@ export default function HomeONG() {
             <View key={index} style={{ padding: 10 }}>
               <Pressable
                 style={styles.buttonsOng}
-                onPress={() =>
-                  router.push({
-                    pathname: "/(tabs)/screenDonation",
-                    params: {
-                      id: item._id,
-                    },
-                  })
-                }
+                onPress={() => console.log("onpress")}
               >
                 <View
                   style={{
