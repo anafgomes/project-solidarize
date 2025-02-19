@@ -1,10 +1,3 @@
-## 📹 Vídeo do Projeto
-
-Para demonstrar o funcionamento do projeto, foi gravado um vídeo que está localizado na pasta:  
-**`src/assets/videos`**.
-
----
-
 ## 📦 Como Instalar
 
 Siga os passos abaixo para configurar e iniciar o projeto:
